@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('') {
       steps {
-        sh 'echo "Hello from shell script"'
+        sh 'npm install
       }
     }
 
